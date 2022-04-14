@@ -222,6 +222,244 @@ textarea:invalid {
           justify-content: center;
   overflow: hidden; }
 
+
+/* Gambarku CSS */
+
+.bg-cup{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixzkd_zCHzmCSA7J7yyrF6p5ue_svdq9wGN_To5MZZIPZ_NjAvHlt_W0CE2rIbNFd8B7gc3O22sNR7VNQdQ7Rbcmzgv_UklgybaPfHb4qpVHbV7pknxUsoqfSmxloOIgV9rshmS_AnSzPxAyc_zKygBTjLSBw0QuNuN8f4CrfNmi444q86PqsNzYDK/s200/cup.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-liga1{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZoJUhVqJrd3Q1u5QegrIz-PyNcrBF4XRyZRKdHzkAvV2rTqbVU_Hwwb_2v71tk7FX0ghUFuZArHA5wFcIgrsF_gAcYiuTlXJe8WzxFbEgnlRY2Syuh8YUm0E7LfawIixF28HS6WXo_nPhHxUaP4gXeGDf-fyFvJpBcSHbFKKc-90gpngFbrz3ThtL/s200/liga1.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-epl{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTj6WFXnfTdwns7Wb1BIKedwEmBg3AL_-kuldhnw2tTszM9SibIvrKj0OhI_EVaabeq5yp7Oe246uM08L980NkV113taBkojJT7fCVqrwmR7hhEn6oy_X9an7VeDTIVjp0XZkYgGJjd1NElh8uYhR1y-NZnEKNdCzuTNlWs3fMK5PGIEnoLxslrS2-/s200/epl.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-laliga{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisHp1I5xhQjuna2iq3S-bLUOt0DB6Uze8F5fjqcljV_Hecw9eMQ9lH_zjXaTxqUTILksBqX3TEAC8fzkSJVoMeW7q-M_c8Pvvfcq-T6VkEXG9wV_3867M-IQpmXQ9OCUkBx5TbB5NawUTFCGOXFPo8DgX7GLu1MC4Tt9VCPlCz7EcPkWLGHroN0yZg/s200/laliga.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-seriea{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFvavshq6DlOm-PmMnbSlIIZfeIaJxXGsWUquOlh726EvBIqU93RmOZfqYODLWCXeoEbAqBCDq5LEIiQfvvLL9N_liOjVMj74LP-csrvpXSJqmi3kgLiyFuTomEvp_mQpZe3fAo0jRBOe4zz3y9_4J_Dth4MqmkUBFQaEVFpCA2VTOhu36WwhI7-gU/s200/seriea1.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-bundesliga{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIJ9Scj9ji0RvxKO7Yjm4TEoVQeNvxJsRGdGX9D_2il7uiJqXNULXZQIIKTh_3qlCbfib4j5zoAz1roqUAwkAvF1PxB5WWhiKBj2lYekNlWCLaXC5tdtMJkzqEnrKZWCAmPGGJf0pRtJqC7SfDpE3FQ_HNOADBG7c3TFMRg7vDNuTRatpDNR150eO7/s200/bundesliga.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-ligue1{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIkCHhSCLZ6VPeOy4fQwf8LIwwNqKoGm5-ChP6KlrJ47P-EqC3H9F3biHkmN6WR6-eoBKlzClm9AFKZt0OI1Ktn-uM-qxq6YcN3AACmvM9j6E-F3OsQBXr4t1iUH_gIMM70hD0XQtj-d0TISArGJM4Jj2-uWnwOShypoBy-ZRstHC0tsZsaf31r0z/s200/ligue1.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-ucl{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL4x6hJXtyVLeO0LQxvYdW3IVFZukweK_shS8CChLJCvXLdraRPNG9WXcvi_nN1sOPhYCiRouNcRSH7WTViqdqm7rioLvveVnBrt_5sDQcXJI3XYfeSG2DRo0lZmSxvJbSOfrUmRgQ4-PuSBcmN-DawJUGq9IIMVDWdmHObiS0loOT82cAa_s6Xngk/s200/ucl.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-uel{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMiYU016An4RmdoD0uT95ZyV3IhvIlhVFagNiccgZcQkFPklVrgNBpxqTvvhsTM69SoBTc79urpD73Rgo-K528zKjcNy1MRcPvQSS9AHTwhyhIXaMuofRmllg0TrPdgJkMApq-4aXGmZjts9S42KpYcyFIRT33XyKzKEXlY4f9mOluTFPlAuGjtsIJ/s200/uel.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-nba{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92LFDDG3bex7XYNdQxkjrzJ25y0eZX913KzIw_Og5m4elfwJwVPSlwUoCKHlOsvrfnymShWOv7aXL5xl64RumVj6qnw2gaeXtHYgdjlrWPblJzeK9GPJ9r1t_Hkno7HbHiXB_xtmVeW-DGEFsL48kcPaCchCHGIsr9xzK9YftA8RpwiH8gwynCGB7/s200/nba.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-motogp{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKF3dAMitOEehsHfUkpVVBkWdn-jUiBcGdbrykEZFqVmawvJBq2keddaw7zlKb8Wghxidl1A4g-u59CQtyASuLG8aAKtYYMAeY7gzFZGzzj0iEOOgiSsYZ1b95la-shDvn5Aw5RVGyl9a9EY_hgULK75JhYyjUb2j4QBGfa2I-UTsaWWFbNOKPSsU1/s200/motogp.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-formula1{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwS-SRKWu03sDlUAi-79nNDUoi_EE7E1Cz9eWLXvYEakLB9DXMTpIEiuOx2rixEPmkQdOpD341zHtTXQyFxiDC7uwfd4S3GPPgW6xZUJNv_FuuXt7g2YT-RZ7YFeN_s99u-wxIU6Akut8nP7IztnTbbYvEFbhPRgCphDsNfH0wV916KRwMd2OvtG60/s200/f1.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-badminton{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDJY6olxNd40aYkUusR8d6iL_6TkbeXUJpXuc-YbVrCzMnF3xfLFin0Ws-94c9Nytkvk84mQQ_tbQ8Y8auubM8m3k2nQTSVklZaM7VmggcgdAdPX6-uqq-_j_OLLI7d-hrETD73lOeSPGyrEi8uJTVoZ6YFSE-ogzz_aq6H6T9gln-LfUBQ42a3vb0/s200/bwf.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-tennis{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5AXoX3jp285ncmp2T2gV8LG2oAPxzHfNwJNyu9DixoOLLKxeiMuv2dSOAnc80UlD8MxdU0aDS-XQSLcBXsUIHkVcOo0nmxxs3byQnbvdiJtTjJADww19BkgiOcxTSqeZPbtMlrFVYYJBc2c5wXb25hRZUN53djpDAvCA2pJXmgz6RicEOL22SdcYn/s200/atp.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-ufc{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoyfLAZWEANbHGLvxpSgAXT9F_6cKTwIrNQE1vdOiFH6gPBsxGtLeICcph6nDlhuQfmC_mWtZYwvKeO-7y_VGpOxDPrYyUTOiA_A-sWCCvacemimbfv3-FcXsfUdIPx8EgsgrOv7AaUPE8_Xd1RBgs-dGVy-LwepwPEG_xGRXlYNkDT9vEdfANNND_/s200/ufc.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-bt1{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwQ9QdpFzx-dJzYqTDKd3_Z2-HNwmyx6eNgFR0RLIrWxyFQKQA5f3-ebxXyyiejCubzmmWSPXn7_Drk94fz_g726GAF7Fv-nvK7QUfBS9pRoStEeh5uVBIDWFMfIjtarAJAd-FE3Zakql3oCalyaYnZBDKb0u-Wh6q8DYuNIjYPaW6EU2hO_rN-c79/s200/btsport1.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-bt2{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaTIvZYFcPJ06f47pgx5-RzzXtVL6yESYd04EWOj0ZYZ2OnUMxFSAXznZJsIiNc7I4Q5KotxPmMEYfa_UMae0JV_Stt9ejtFbahdwuJgGRrp3Uk_EQi2qRwQfBIJwImPpOSYEgKM62yXMf9sciqZqZk6qeUQ3XRu9kMYURDuVvEBU2za9ZSwACCJoI/s200/btsport2.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-rcti{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4oZsFv1zbdT3jZ0IRsTe0DcWocEazEvNECpH2zbz7vEXnoVGM5ZlyVhJ-mcHmYiKKnWqOAv8Pz5s1-F8JEei3uNq09ZJxoLpiz8XMxzCTH9lvFSIhh0ykd7pJb1OwWS_WRSl2vfMlmlbHaW7mSBwHmRUpfY9juGkFqyOeBhUA1aFPHwOLpElEhXSU/s200/rcti.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-mnctv{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhjqAhreDIU5jY3WINzgu7e5qyD7E3A75ymZgrg7c-q23s7TnEHOrq9Hti5UVFrlvVV6QAGEr1YXYs1kJOHwlxByKeXBOnd29gAWAnue_a4bA9BoCabVDuqKLc1J4DLRFYqxHe0hD_zI5Eu2msL9y_NQUQbEBx0m6uSqPXm9qFz1qujgqlMhw_4b-S/s200/mnctv.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-gtv{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj42vXF8NLhERFY3h0aIgop1UCmfchD2q_GErXcZCGYlzII1z-GTj3W1KulhlvBlwDtORBPqYdPvL0spjcNTuZ8uoOPzAq29vyNhrCv2DImTjQLx6uSdhRqNVVGWx5PCYoHmGF2b-rzzuTcqG-VoZfzCFSwUbK6MVw8u759ih4ri-7eehebZa0TCS-Z/s200/gtv.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-sctv{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnjudz2yb4mT2-jJcSgEL0PoE2aK5gSgD4jwVwjggeEuVW8maRUddOSZFzo0TZmko-3wWsVixuYt-Ra-8jBvmV99MyACwb-mVI2mI2KAp3clM-ARTh3UmE6ddeztAH5zQ00MRPtLYwnAYMA2oo8rm6XTb2B-KZ94qKkL1eqezpF7vf37yitt87xzM/s200/sctv.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-indosiar{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPiYKGwQG_ieT_qgoV5u-__VmjtLwkDmpZHJ39t56f6T5i4_526pJegYqyFislrKl65vIduS-ysnKo2BnPjYQrJDoYIdxtVTwrPeMgLfJMow7tQsY-bqiZdcLbQWBw-WedZBLyUpvNn9XqLVhJXJWMZxX3eVdcw8wdtf0RpEvtHlrr0I3htK2FT6Ju/s200/indosiar.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-trans7{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF1imiD36PK5Yv-kebnBhdu_9M0XuLuRfh3xcOTd3ppx-nHFH0nMPosh5llXwcTzal3lLKTpxqAzwOp-k7Yai7KR8Z6YI3GsKVXvHk0T5xJ-xHDV44oIy6Il8G84ipqTDTtnIP7mlRlrwON7hIZI8qaJbJZgRHcsEmNbqrX6SWEBgeMwz-4OfMF2L_/s200/trans7.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-transtv{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMaIuQQyoEVrFihy1_eXKRiYK-8EX0IKUWkUssoATvtpi3Ox8erQ-W13pVD5DBsFUTOwDQvl_1a0lvZLmBy3LwL26LWbWp5LM4JD9k11b5eO7nynCdJYhG467FwMUcV4d4tWdYtR9y_VQ8VTDIylZQsQJBfHpM0h0XKOHjjiMZFgiqZUbp1FTVp5Dr/s200/transtv.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-player{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqpgw_AsntxfgTaWK3knjWVXpGvcHMbEmi25JXHQH8Jcb-0vhIiFKjJN78YRa4hYmiF-qBX-l_ysdfRlDdky9HTjVaSwh-VfrCfrrrFtcL7JBOdVm8Vd1lCdAO5jiibSHj-ODaipqYTfsuUVgTDcb4Je-Bd33QL7SXXZOWIkhgjuZm2qzkRn8bu3Jp/s320/covers.png') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-coverbawah{
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0ytisS1vJllkjLhWTUG0FnkYBOG98YXVwhWz-afbyb5zlt9uIZ_pumwMOwlnAABTDEpsv8ZQKVQ0OSDGeskAwJLAx21fShwv0jhNkZG74rLCFsyEIBbDIj6KiqlBj7BNny9AGaH7-Orv0gQb-BvZz6aPwwmEpV50JDQ3AI4nqPdyy_H99wBOg7pl8/s200/coverbawah.jpg') ;
+  height: 150px; width: 100%;
+  border-radius: 5px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 /* Shortcodes CSS */
 .fz-14 {
   font-size: 14px; }
@@ -230,6 +468,7 @@ textarea:invalid {
   height: 100vh !important; }
 
 .bg-img {
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUV6fLBN9c1jO5U8LO716Qm6CwOj3dyfvFsV6yIZP52-c_mqfBRvspfA8LTUYDqGsm983Sp_oOYRhddWTGLPsd1QLWTb-N8tcnj3esVW17tWtFrlCT10-xBWyaDNVdepfXgeAv-hXVEAGTpYvfBKX8mmzUgaabXS7OH_KcBeI5CkhttWFlqE6OblJj/s400/covers.jpg') ;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat; }
@@ -305,12 +544,12 @@ textarea:invalid {
     border-color: #020310; }
 
 .btn-info {
-  background-color: #21d6f1;
-  border-color: #21d6f1;
+  background-color: #ed8e00;
+  border-color: #ed8e00;
   color: #ffffff; }
   .btn-info:hover, .btn-info:focus {
-    background-color: #020310;
-    border-color: #020310;
+    background-color: #ed8e00;
+    border-color: #ed8e00;
     color: #ffffff; }
 
 .bg-primary,
@@ -362,7 +601,7 @@ textarea:invalid {
   border-radius: 6px; }
   .card .card-body {
     padding: 1rem; }
-  .card .card-bodys {
+  .card .card-bodi {
     padding: 0.5rem; }
 
 .card-img-top {
@@ -1060,8 +1299,9 @@ textarea:invalid {
   .back-button a:hover, .back-button a:focus {
     color: #100DD1; }
 
-.page-heading h6 {
-  font-size: 14px; }
+.page-heading h7 {
+  font-size: 16px;
+  margin-bottom: -5px; }
 
 .logo-wrapper a {
   display: block; }
@@ -2083,7 +2323,7 @@ li.suha-dropdown-menu {
               transform: translateX(-50%);
       z-index: 10;
       border-radius: 0rem;
-      padding: 2px 4px 1px !important; }
+      padding: 1px 1px 1px !important; }
       .product-card .product-thumbnail .offer-countdown-timer li {
         font-size: 11px;
         line-height: 1;
